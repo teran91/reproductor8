@@ -1,7 +1,7 @@
-const RADIO_NAME = 'Radio Proyeccion';
+const RADIO_NAME = 'Radio Proyeccion 2';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/atw3gs6canzuv';
+const URL_STREAMING = 'https://stream.zeno.fm/u37obbcuhtkvv';
 
 // You can find the mount point in the Broadcast Settings.
 // To generate the Zeno Radio API link from the mount point,
@@ -9,7 +9,7 @@ const URL_STREAMING = 'https://stream.zeno.fm/atw3gs6canzuv';
 // For example, if the mount point is 'yn65fsaurfhvv/source',
 // the API link will be 'https://api.zeno.fm/mounts/metadata/subscribe/yn65fsaurfhvv'.
 
-const url = 'https://api.zeno.fm/mounts/metadata/subscribe/gaubcs6canzuv';
+const url = 'https://api.zeno.fm/mounts/metadata/subscribe/u37obbcuhtkvv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
